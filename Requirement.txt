@@ -1,2 +1,3 @@
 psycopg2 
 django-phonenumber-field
+import_export
